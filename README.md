@@ -1,5 +1,5 @@
 # React Assesment:
-This project was to showcase Reactjs capability. A modal was created using Reactjs, reactstrap was selected as the CSS framework. It provides easy to navigate UI with a low learning curve. MaterialUI icons used to support the user interface and complete the modal's design as per the provided specification.
+This project was created to showcase Reactjs capability. A modal was created using Reactjs, reactstrap was selected as the CSS framework. It provides easy to navigate UI with a low learning curve. MaterialUI icons used to support the user interface and complete the modal's design as per the provided specification.
 
 
 https://user-images.githubusercontent.com/41212356/111247113-76a53980-85d5-11eb-9a3a-12a75058c2d9.mp4
