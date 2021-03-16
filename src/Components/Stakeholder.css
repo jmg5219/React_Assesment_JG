@@ -1,0 +1,15 @@
+.stakeholderList{
+    list-style-image: url("./clock.png");
+    margin-left: 0.25rem; 
+}
+
+.stakeholderListAccepted{
+    list-style-image: url("./checked.png");
+    margin-left: 0.25rem; 
+}
+
+.stakeholderListRejected{
+    list-style-image: url("./remove.png");
+    margin-left: 0.25rem; 
+    text-decoration: line-through;
+}
